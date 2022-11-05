@@ -1,5 +1,14 @@
+
 <!DOCTYPE html>
 <html>
+<style>
+	main {
+		background-color: green;
+{exp:channel:entries channel="canvas" entry_id="1"}
+		background-image: url("{canvas_page_bg}");
+{/exp:channel:entries}
+	}
+</style>
 <head>
     <title>The Striven Word</title>
 </head>
@@ -10,6 +19,9 @@
         <main class="wrapper">
             <div class="design-module">
                 {!-- output SVG for one of the logos goes here, potentially with CSS transformations --}
+{exp:channel:entries channel="canvas" entry_id="1"}
+				<img src="{canvas_page_bg}" alt="background image of a watercolor-painted forest" />
+{/exp:channel:entries}
             </div>
             <ol>
                 <li>Web Journal</li>
