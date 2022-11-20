@@ -1,0 +1,85 @@
+/* structure */
+
+* {
+    font-size: 9pt;
+}
+
+.page-canvas {
+    overflow: hidden;
+}
+
+header h1 {
+    text-align: center;
+    margin: 3rem;
+    padding-top: 6rem;
+    font-size: 3rem;
+}
+
+#universal {
+    margin: 0;
+    padding: 0;
+    background-color: darkslategrey;
+    background-image: url("../img/forest-watercolor-vlntn.jpg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    height: 1200px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+}
+
+.content-module li>a {
+    font-size: 2rem;
+}
+.content-module li:not(:first-child) {
+    padding-top: 0.25rem;
+}
+
+
+.widget-pic {
+    width: 12.5%;
+    min-width: 100px;
+    max-width: 225px;
+}
+
+footer {
+    padding-top: 3rem;
+}
+
+/* aesthetic */
+header h1 {
+    color: darkslategray;
+}
+
+.content-module a {
+    text-decoration: none;
+}
+.content-module li {
+    list-style: none;
+}
+
+footer .content-module {
+    padding-top: 1rem;
+}
+
+.content-module p, .content-module a {
+    font-family: sans-serif;
+    margin: 0;
+}
+header h1 {
+    font-family: sans-serif;
+}
+
+/* behavior */
+.content-module li>a:hover {
+    font-size: 2.25rem;
+}
