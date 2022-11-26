@@ -1,4 +1,4 @@
-a:3:{s:4:"time";i:1667634583;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:105:"
+a:3:{s:4:"time";i:1669476859;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:105:"
 
 		
 		
@@ -32,7 +32,85 @@ a:3:{s:4:"time";i:1667634583;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27
 			
 		
 
-	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-09-16T20:51:45+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:34:"Copyright (c) 2022, Andy McCormick";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"uri";s:28:"http://expressionengine.com/";s:7:"version";s:5:"5.4.3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:123:"
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-11-07T19:53:21+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:30:"Copyright (c) 2022, Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"uri";s:28:"http://expressionengine.com/";s:7:"version";s:5:"5.4.3";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:89:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"ExpressionEngine 6.4 &amp; 7.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:58:"https://expressionengine.com/blog/expressionengine-6.4-7.2";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:58:"https://expressionengine.com/blog/expressionengine-6.4-7.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-11-07T18:55:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-11-07T19:53:21+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2353:"
+				<p>Hello ExpressionEngine friends.</p>
+
+<p>Today we&#8217;re excited to share with you the release of not <em>just one</em> version of ExpressionEngine but two. Let me introduce them to you.</p>
+
+<h2>ExpressionEngine 6.4</h2>
+
+<p>Version 6.4 is bringing with it the <em>large</em> performance scope that was originally shipped as part of ExpressionEngine 7.0.0. <a href="https://youtu.be/vnEtTUME2b4?t=637">If you want to hear more on HOW we did it, I&#8217;d encourage you to watch this short, few-minute segment of the ExpressionEngine 7 launch event</a>.  In addition to this, we&#8217;re also bringing the global caching options launched with version 7 into version 6.4.  We believe these are important steps to help lower the carbon footprint of all ExpressionEngine sites and we hope you enjoy the added speed!</p>
+
+<p>Check out the <a href="https://docs.expressionengine.com/v6/installation/changelog.html#version-640">changelog</a> for all the goodies!</p>
+
+<h2>ExpressionEngine 7.2</h2>
+
+<p>Version 7.2 is bringing with it new <a href="https://docs.expressionengine.com/latest/add-ons/rte.html#advanced-configuration">customization options</a> for RTE (Rich Text Editors). Further insight into where fields are being used, the ability to edit related content while on the publish page, additional RTL (Right to Left) support in RTE,  and <em>much</em> more</p>
+
+<p>Likewise, check out the <a href="https://docs.expressionengine.com/latest//installation/changelog.html#version-720">changelog</a> for all of the goodies.</p>
+
+<h1>Added to Both Releases</h1>
+
+<h2>Updated checkbox field</h2>
+
+<p>In addition to this, we&#8217;re happy to share that both releases are getting an updated checkbox field (specifically moving selected items to the top), as well as a large development scope by the community.</p>
+
+<h2>Modernization of add-on development</h2>
+
+<p>Starting in version 6.4 and 7.2 add-on developers can now build add-ons by taking advantage of new methodologies to organize their code. This will allow developers to split their extensions, MCPs, and modules into multiple files for better organization of code. Each extension hook, tag, action, and control panel route can optionally be organized into its own files.</p>
+
+<p>A special shout out to <a href="https://github.com/mithra62">Eric Lamb</a> for this contribution!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 07 Nov 2022 18:55:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2343:"<p>Hello ExpressionEngine friends.</p>
+
+<p>Today we&#8217;re excited to share with you the release of not <em>just one</em> version of ExpressionEngine but two. Let me introduce them to you.</p>
+
+<h2>ExpressionEngine 6.4</h2>
+
+<p>Version 6.4 is bringing with it the <em>large</em> performance scope that was originally shipped as part of ExpressionEngine 7.0.0. <a href="https://youtu.be/vnEtTUME2b4?t=637">If you want to hear more on HOW we did it, I&#8217;d encourage you to watch this short, few-minute segment of the ExpressionEngine 7 launch event</a>.  In addition to this, we&#8217;re also bringing the global caching options launched with version 7 into version 6.4.  We believe these are important steps to help lower the carbon footprint of all ExpressionEngine sites and we hope you enjoy the added speed!</p>
+
+<p>Check out the <a href="https://docs.expressionengine.com/v6/installation/changelog.html#version-640">changelog</a> for all the goodies!</p>
+
+<h2>ExpressionEngine 7.2</h2>
+
+<p>Version 7.2 is bringing with it new <a href="https://docs.expressionengine.com/latest/add-ons/rte.html#advanced-configuration">customization options</a> for RTE (Rich Text Editors). Further insight into where fields are being used, the ability to edit related content while on the publish page, additional RTL (Right to Left) support in RTE,  and <em>much</em> more</p>
+
+<p>Likewise, check out the <a href="https://docs.expressionengine.com/latest//installation/changelog.html#version-720">changelog</a> for all of the goodies.</p>
+
+<h1>Added to Both Releases</h1>
+
+<h2>Updated checkbox field</h2>
+
+<p>In addition to this, we&#8217;re happy to share that both releases are getting an updated checkbox field (specifically moving selected items to the top), as well as a large development scope by the community.</p>
+
+<h2>Modernization of add-on development</h2>
+
+<p>Starting in version 6.4 and 7.2 add-on developers can now build add-ons by taking advantage of new methodologies to organize their code. This will allow developers to split their extensions, MCPs, and modules into multiple files for better organization of code. Each extension hook, tag, action, and control panel route can optionally be organized into its own files.</p>
+
+<p>A special shout out to <a href="https://github.com/mithra62">Eric Lamb</a> for this contribution!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:1;a:6:{s:4:"data";s:123:"
 				
 				
 				
@@ -132,7 +210,7 @@ a:3:{s:4:"time";i:1667634583;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27
 <p><strong>For the next two weeks (Aug 24 - Sept 7) a Single Site Pro license is on sale for only $189!</strong> No limit on licenses purchased during this sale.</p>
 
 <p class="text-center"><a href="/store/purchase-pro" class="bg-red text-white mt-6 inline-block px-8 border border-red border-solid rounded-md text-center text-base font-normal lg:mt-6 leading-50 hover:bg-white hover:text-red " style="color:#fff;">Purchase ExpressionEngine Pro</a></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:1;a:6:{s:4:"data";s:89:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:2;a:6:{s:4:"data";s:89:"
 				
 				
 				
@@ -194,7 +272,7 @@ a:3:{s:4:"time";i:1667634583;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27
 </center></figure>
 
 <p>Today we&#8217;re excited to share that Structure is now shipping as part of the ExpressionEngine core.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:2;a:6:{s:4:"data";s:89:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:3;a:6:{s:4:"data";s:89:"
 				
 				
 				
@@ -346,7 +424,7 @@ a:3:{s:4:"time";i:1667634583;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27
 <figure><center>
     <img src="https://expressionengine.com/asset/img/blog/ee7_new_fm.png" alt="New File Manager in ExpressionEngine 7">
 </center></figure>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:3;a:6:{s:4:"data";s:106:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:4;a:6:{s:4:"data";s:106:"
 				
 				
 				
@@ -481,7 +559,7 @@ a:3:{s:4:"time";i:1667634583;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27
 <h2>Other Additions</h2>
 
 <p>The 6.3.0 release of ExpressionEngine goes beyond conditional fields and new field types.  Check out <a href="https://docs.expressionengine.com/latest/installation/changelog.html">the full change log</a> for all the goodies!</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:4;a:6:{s:4:"data";s:106:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:5;a:6:{s:4:"data";s:106:"
 				
 				
 				
@@ -610,7 +688,7 @@ Conditional fields bring the ExpressionEngine content administration experience 
 <p>You can now give content admins the flexibility they need with conditional fields while retaining content integrity.</p>
 
 <p>Simply put, it&#8217;s a more effective way to ensure content integrity as well as a better content admin experience.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:5;a:6:{s:4:"data";s:89:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:6;a:6:{s:4:"data";s:89:"
 				
 				
 				
@@ -676,7 +754,7 @@ Conditional fields bring the ExpressionEngine content administration experience 
 <p>Take a peek at the full <a href="https://docs.expressionengine.com/latest/installation/changelog.html">change log</a>!</p>
 
 <p><em>Please note, we consider this phase 1 of entry cloning, while we already have plans in place for phase 2 we&#8217;re eager to hear your feedback to help us shape those plans further!</em></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:6;a:6:{s:4:"data";s:89:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:7;a:6:{s:4:"data";s:89:"
 				
 				
 				
@@ -768,7 +846,7 @@ Conditional fields bring the ExpressionEngine content administration experience 
 <li>PHP 8.1 Support</li>
 <li><a href="https://docs.expressionengine.com/latest/installation/changelog.html">Many more</a></li>
 </ul>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:7;a:6:{s:4:"data";s:89:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:8;a:6:{s:4:"data";s:89:"
 				
 				
 				
@@ -810,7 +888,7 @@ Conditional fields bring the ExpressionEngine content administration experience 
 <p>The good news is that <a href="https://expressionengine.com/support/version-support">ExpressionEngine Version 6 is an LTS (Long Term Support) release,</a> and as such will be supported for 5 more years.  It&#8217;s also an easy upgrade from version 5.</p>
 
 <p>Learn more about why you should upgrade, or to <a href="https://expressionengine.com/upgrades">get in touch with an ExpressionEngine Partner that specializes in upgrades today!</a></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:8;a:6:{s:4:"data";s:89:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:9;a:6:{s:4:"data";s:89:"
 				
 				
 				
@@ -944,112 +1022,4 @@ These features (and more!) will take your existing ExpressionEngine sites and <e
 <p>And finally, thanks to everyone in the EE community for your support and encouragement over the last year. It feels great to finally deliver this release into your hands!</p>
 
 <p>Welcome to the new era!</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:9;a:6:{s:4:"data";s:89:"
-				
-				
-				
-				
-				
-				
-				
-					
-					
-				
-				
-
-				
-				
-					
-					
-				
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"ExpressionEngine 6.1 Has Landed";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:65:"https://expressionengine.com/blog/expressionengine-6.1-has-landed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"https://expressionengine.com/blog/expressionengine-6.1-has-landed";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2021-10-06T13:11:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2022-01-13T16:31:35+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
-					
-					
-					
-				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Tom Jaeger";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:18:"Tom@PacketTide.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2502:"
-				<p>Today we&#8217;re excited to share the first major update to ExpressionEngine version 6!</p>
-
-<p>Let&#8217;s unpack it a bit!</p>
-
-<p>For starters, we&#8217;re excited to share that ExpressionEngine Pro is shipping inside the 6.1 release!  <a href="https://expressionengine.com/blog/introducing-expressionengine-pro">For more info on Pro and what it is, check out the Pro release announcement.</a></p>
-
-<h4>Rich Text Editor</h4>
-
-<p>Version 6 contained a major update to the Rich Text Editor (RTE) field with the inclusion of CKEditor 5.  In version 6.1 we’ve built upon that by adding the option to choose Redactor as well.</p>
-
-<figure>
-    <img src="https://expressionengine.com/asset/img/blog/Redactor-in-6.1.png" alt="Viewing Source in RTE">
-</figure>
-
-<h4>Command Line Interface</h4>
-
-<p>Similarly, in version 6, we also introduced the base of the new Command Line Interface (CLI).  We&#8217;re happy to share that in version 6.1 the CLI has taken a big step forward with the addition of commands for cache, make and migrate. These should greatly enable developers to get to the heart of their work faster.</p>
-
-<figure>
-    <img src="https://expressionengine.com/asset/img/blog/ee6.1-cli_.png" alt="ExpressionEngine CLI">
-</figure>
-
-<p><a href="https://www.youtube.com/watch?v=6gZqupKzmDo">Check out this video if you would like to see it in action.</a></p>
-
-<h4>Cookies</h4>
-
-<p>Earlier this year we held an open forum to discuss the ever changing cookie laws throughout the world, and how to better position ExpressionEngine to accommodate the cookie laws across different countries.  As a result of this call, version 6.1 has some substantial changes to how cookies are handled. The following is a quick summary of the changes:</p>
-
-<ul>
-<li>All consents are now logged (including guests)</li>
-<li>Removed as many cookies as possible</li>
-<li>Converted all front-end cookies to session cookies</li>
-<li>Added consent versions to the Audit Log.</li>
-</ul>
-
-<p>ExpressionEngine Pro also substantially enhances your cookie options and gives you fine tune control over cookie settings throughout the core and add-ons.</p>
-
-<h4>reCAPTCHA V3</h4>
-
-<p>We&#8217;ve also added reCAPTCHA support as an additional CAPTCHA option in version 6.1  We specifically chose version 3 as it has better accessibility.</p>
-
-<p>This is just the tip of the iceberg. <a href="https://docs.expressionengine.com/latest/installation/changelog.html">Take a peek at the change log for all details!</a></p>
-
-				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 06 Oct 2021 13:11:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2492:"<p>Today we&#8217;re excited to share the first major update to ExpressionEngine version 6!</p>
-
-<p>Let&#8217;s unpack it a bit!</p>
-
-<p>For starters, we&#8217;re excited to share that ExpressionEngine Pro is shipping inside the 6.1 release!  <a href="https://expressionengine.com/blog/introducing-expressionengine-pro">For more info on Pro and what it is, check out the Pro release announcement.</a></p>
-
-<h4>Rich Text Editor</h4>
-
-<p>Version 6 contained a major update to the Rich Text Editor (RTE) field with the inclusion of CKEditor 5.  In version 6.1 we’ve built upon that by adding the option to choose Redactor as well.</p>
-
-<figure>
-    <img src="https://expressionengine.com/asset/img/blog/Redactor-in-6.1.png" alt="Viewing Source in RTE">
-</figure>
-
-<h4>Command Line Interface</h4>
-
-<p>Similarly, in version 6, we also introduced the base of the new Command Line Interface (CLI).  We&#8217;re happy to share that in version 6.1 the CLI has taken a big step forward with the addition of commands for cache, make and migrate. These should greatly enable developers to get to the heart of their work faster.</p>
-
-<figure>
-    <img src="https://expressionengine.com/asset/img/blog/ee6.1-cli_.png" alt="ExpressionEngine CLI">
-</figure>
-
-<p><a href="https://www.youtube.com/watch?v=6gZqupKzmDo">Check out this video if you would like to see it in action.</a></p>
-
-<h4>Cookies</h4>
-
-<p>Earlier this year we held an open forum to discuss the ever changing cookie laws throughout the world, and how to better position ExpressionEngine to accommodate the cookie laws across different countries.  As a result of this call, version 6.1 has some substantial changes to how cookies are handled. The following is a quick summary of the changes:</p>
-
-<ul>
-<li>All consents are now logged (including guests)</li>
-<li>Removed as many cookies as possible</li>
-<li>Converted all front-end cookies to session cookies</li>
-<li>Added consent versions to the Audit Log.</li>
-</ul>
-
-<p>ExpressionEngine Pro also substantially enhances your cookie options and gives you fine tune control over cookie settings throughout the core and add-ons.</p>
-
-<h4>reCAPTCHA V3</h4>
-
-<p>We&#8217;ve also added reCAPTCHA support as an additional CAPTCHA option in version 6.1  We specifically chose version 3 as it has better accessibility.</p>
-
-<p>This is just the tip of the iceberg. <a href="https://docs.expressionengine.com/latest/installation/changelog.html">Take a peek at the change log for all details!</a></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:13:{s:6:"server";s:12:"nginx/1.17.3";s:4:"date";s:29:"Sat, 22 Oct 2022 17:29:44 GMT";s:12:"content-type";s:23:"text/xml; charset=utf-8";s:10:"connection";s:10:"keep-alive";s:10:"set-cookie";s:577:"exp_last_visit=1351099784; expires=Sun, 22-Oct-2023 17:29:44 GMT; Max-Age=31536000; path=/; SameSite=Lax; secure; HttpOnly, exp_last_activity=1666459784; expires=Sun, 22-Oct-2023 17:29:44 GMT; Max-Age=31536000; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=b0fb6d6d076aba8598a93495f9b3a3568f4f8787; expires=Sat, 22-Oct-2022 19:29:44 GMT; Max-Age=7200; path=/; SameSite=Lax; secure; HttpOnly, PHPSESSID=meoddrqql0mk0a6li1bp8rili3; path=/; secure; HttpOnly";s:15:"x-frame-options";s:22:"SAMEORIGIN, SAMEORIGIN";s:7:"expires";s:29:"Fri, 16 Sep 2022 21:51:45 GMT";s:13:"last-modified";s:29:"Fri, 16 Sep 2022 20:51:45 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:16:"x-xss-protection";s:13:"1; mode=block";s:22:"x-content-type-options";s:7:"nosniff";s:23:"content-security-policy";s:23:"frame-ancestors 'self';";}s:5:"build";s:14:"20220930103646";}}
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:13:{s:6:"server";s:12:"nginx/1.17.3";s:4:"date";s:29:"Fri, 25 Nov 2022 17:01:30 GMT";s:12:"content-type";s:23:"text/xml; charset=utf-8";s:10:"connection";s:10:"keep-alive";s:10:"set-cookie";s:577:"exp_last_visit=1354035689; expires=Sat, 25-Nov-2023 17:01:29 GMT; Max-Age=31535999; path=/; SameSite=Lax; secure; HttpOnly, exp_last_activity=1669395689; expires=Sat, 25-Nov-2023 17:01:29 GMT; Max-Age=31535999; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax; secure; HttpOnly, exp_csrf_token=e479edfb141db4c9a3e04dbbf29030b91a99b157; expires=Fri, 25-Nov-2022 19:01:29 GMT; Max-Age=7199; path=/; SameSite=Lax; secure; HttpOnly, PHPSESSID=cdkda1fg504dpo0qqf30tb0o9q; path=/; secure; HttpOnly";s:15:"x-frame-options";s:22:"SAMEORIGIN, SAMEORIGIN";s:7:"expires";s:29:"Mon, 07 Nov 2022 20:53:21 GMT";s:13:"last-modified";s:29:"Mon, 07 Nov 2022 19:53:21 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:16:"x-xss-protection";s:13:"1; mode=block";s:22:"x-content-type-options";s:7:"nosniff";s:23:"content-security-policy";s:23:"frame-ancestors 'self';";}s:5:"build";s:14:"20220930103646";}}
