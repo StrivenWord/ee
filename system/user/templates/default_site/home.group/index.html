@@ -1,8 +1,12 @@
 {layout="canvas/page_bg-image-centered-content"}
 
+{exp:channel:entries dynamic="no" entry_id="1"}
+
 <div class="content-module">
 	<ul>
-		<li><a href="#">Web Journal</a></li>
+		{module_link-list}
+		<li><a href="{module_link-list:module_linklist_url}">{module_link-list:module_linklist_name}</a></li>
+		{/module_link-list}
 		<li><a href="#">Esperanto Medium Blog</a></li>
 		<li><a href="#" class="list-divider">Review Blog</a></li>
 		<li><a href="#">Hive</a></li>
@@ -14,3 +18,5 @@
 		<li><a href="#">Open Clip Art</a></li>
 	</ul>
 </div>
+
+{/exp:channel:entries}
